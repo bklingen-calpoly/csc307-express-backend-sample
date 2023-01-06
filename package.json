@@ -1,0 +1,22 @@
+{
+  "name": "csc307-express-backend-sample",
+  "version": "1.0.0",
+  "description": "[![Backend Node.js CI and CD](https://github.com/bklingen-calpoly/csc307-expressjs-with-mongoose/actions/workflows/node.js.yml/badge.svg?branch=cloud-database)](https://github.com/bklingen-calpoly/csc307-expressjs-with-mongoose/actions/workflows/node.js.yml)",
+  "main": "backend.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bklingen-calpoly/csc307-express-backend-sample.git"
+  },
+  "author": "BJ Klingenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bklingen-calpoly/csc307-express-backend-sample/issues"
+  },
+  "homepage": "https://github.com/bklingen-calpoly/csc307-express-backend-sample#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
