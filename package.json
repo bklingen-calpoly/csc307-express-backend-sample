@@ -4,9 +4,9 @@
   "description": "[![Backend Node.js CI and CD](https://github.com/bklingen-calpoly/csc307-expressjs-with-mongoose/actions/workflows/node.js.yml/badge.svg?branch=cloud-database)](https://github.com/bklingen-calpoly/csc307-expressjs-with-mongoose/actions/workflows/node.js.yml)",
   "main": "backend.js",
   "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev": "nodemon backend.js",
-      "start": "node backend.js"
+    "test": "echo \"Error: no test  specified\" && exit 1",
+    "dev": "nodemon backend.js",
+    "start": "node backend.js"
   },
   "repository": {
     "type": "git",
