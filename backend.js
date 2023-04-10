@@ -1,7 +1,7 @@
 const express = require("express");
 
 const app = express();
-const port = 5000;
+const port = 8000;
 const APP_VERSION = "1.0.0";
 
 app.use(express.json());
